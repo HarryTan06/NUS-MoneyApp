@@ -1,5 +1,5 @@
 # NUS-MoneyApp
-Payment App for campus student at NUS
+### Payment App for campus student at NUS
 
 This Project is done as part of [NUS FinTech SG Programme](https://fintechlab.nus.edu.sg/fintechsg-programme-company/) where students learned about full stack developement concepts , DevOps and product design through a structured 2 months intensive full time course.
 
