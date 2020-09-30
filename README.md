@@ -8,3 +8,13 @@ This repo is mean as a showcase for what the student has learned to build a paym
 ## Architecture and Techology stack
 
 ![](screenshot/tech.JPG)
+
+
+## Backend Database set up
+
+### Prerequisites
+#### Language
+MySQL
+### Setup 
+1, Install MySQL [Windows OS](https://www.youtube.com/watch?v=WuBcTJnIuzo)
+2,Connecting to MySQL client [guide](screenshot/connecting to my sql.JPG)
