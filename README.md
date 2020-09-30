@@ -53,3 +53,11 @@ MySQL
 4, Install Postman [Here](https://www.postman.com/downloads/)
 
 5, Guide to start new Node Project, run express generator , run MySQL and run express body-parser in Visual Studio Code.  [guide](screenshot/guide.JPG)
+
+### API Design
+
+![](screenshot/API.JPG)
+
+### API documentation
+
+[APIs, listing URIs, method, request and response parameters, and API description.](API/API.pdf)
