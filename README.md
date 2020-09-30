@@ -69,3 +69,24 @@ MySQL
 ### Test API using Postman
 
 Document the test results in [TestAPI.pptx.](API/TestAPI.pptx)
+
+
+## Connecting API to Browser Client using React
+
+
+### Prerequisites
+#### Language
+Node.JS 
+
+Express.JS
+
+MySQL
+#### Setup 
+
+1, Install Create-React-app package [Here](https://www.npmjs.com/package/create-react-app)
+
+2, Guide to create React Project and Run React in local host.  [guide](React/React.pdf)
+
+#### Sample Output of calling API using React from browser
+
+![](screenshot/React.JPG)
