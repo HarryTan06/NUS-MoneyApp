@@ -85,7 +85,7 @@ MySQL
 
 1, Install Create-React-app package [Here](https://www.npmjs.com/package/create-react-app)
 
-2,All the .JS [ source code ](React/fullstack/) listed in the design diagram
+2,All the .JS and HTML [ source code ](React/fullstack/) for React backend and frontend server
 
 3, Guide to create React Project and Run React in local host.  [guide](React/React.pdf)
 
