@@ -18,4 +18,4 @@ MySQL
 ### Setup 
 1, Install MySQL [Windows OS](https://www.youtube.com/watch?v=WuBcTJnIuzo)
 
-2,Connecting to MySQL client [guide](screenshot/connecting to my sql.JPG)
+2,Connecting to MySQL client ![guide](screenshot/connecting to my sql.JPG)
