@@ -10,7 +10,7 @@ This repo is mean as a showcase for what the student has learned to build a paym
 ![](screenshot/tech.JPG)
 
 
-## Backend Database Set up
+## 1, Backend Database Set up
 ### Prerequisites
 #### Language
 MySQL
@@ -35,7 +35,7 @@ MySQL
 
 
 
-## Developing API to Access Database
+## 2, Developing API to Access Database
 ### Prerequisites
 #### Language
 Node.JS 
@@ -71,7 +71,7 @@ All the .JS [ source code ](API/) listed in the API design diagram
 Document the test results in [TestAPI.pptx.](API/TestAPI.pptx)
 
 
-## Connecting API to Browser Client using React
+## 3, Connecting API to Browser Client using React
 
 
 ### Prerequisites
@@ -92,3 +92,15 @@ MySQL
 #### Sample Output of calling API using React from browser
 
 ![](screenshot/React.JPG)
+
+## 4, Payment App Market Research 
+
+This [paper](PaymentAppDesign.pdf) was done in the "Design Thinking" module where student are thought to apply design thinking process and product developement.
+The paper uses DBS Bank's PayLah mobile app as illustration. It inculde the payment app market research and payment app design thinking. This provide ideas and material to develop the NUS Moneyapp final product.
+
+
+## 5, Payment App Regulation in Singapore
+
+Any entity who is providing payment service in Singpaore has to apply for a licnece under the Payment Service Act (PSA) starting Feburary, 2020.
+The NUS Moneyapp will come under the PSA act. 
+MAS has provided the requirement and guideline [here](https://www.mas.gov.sg/regulation/acts/payment-services-act)
