@@ -7,4 +7,4 @@ This repo is mean as a showcase for what the student has learned to build a paym
 
 ##Architecture and Techology stack
 
-![](sentosa.jpg)
+![](tech.JPG)
