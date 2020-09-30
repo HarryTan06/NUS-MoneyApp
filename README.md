@@ -97,7 +97,7 @@ MySQL
 ## 4, Payment App Market Research 
 
 This [paper](PaymentAppDesign.pdf) was done in the "Design Thinking" module where student are thought to apply design thinking process and product developement.
-The paper uses DBS Bank's PayLah mobile app as illustration. It inculde the payment app market research and payment app design thinking. This provide ideas and material to develop the NUS Moneyapp final product.
+The paper uses DBS Bank's PayLah mobile app as an illustration. It inculde the payment app market research and payment app design thinking. This provides ideas to develop the NUS Moneyapp final product.
 
 
 ## 5, Payment App Regulation in Singapore
