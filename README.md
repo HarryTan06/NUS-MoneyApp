@@ -64,7 +64,7 @@ MySQL
 
 ### API source code
 
-[All the .JS cource code listed in the design diagram](API/)
+All the .JS [ source code ](API/) listed in the API design diagram
 
 ### Test API using Postman
 
@@ -85,7 +85,9 @@ MySQL
 
 1, Install Create-React-app package [Here](https://www.npmjs.com/package/create-react-app)
 
-2, Guide to create React Project and Run React in local host.  [guide](React/React.pdf)
+2,All the .JS [ source code ](React/Fullstack/) listed in the design diagram
+
+3, Guide to create React Project and Run React in local host.  [guide](React/React.pdf)
 
 #### Sample Output of calling API using React from browser
 
