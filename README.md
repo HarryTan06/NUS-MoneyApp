@@ -38,13 +38,15 @@ MySQL
 ## Developing API to Access Database
 ### Prerequisites
 #### Language
-Node.JS
+Node.JS 
+
 Express.JS
+
 MySQL
 #### Setup 
 1, Install Visual Studio Code [Here](https://code.visualstudio.com/download)
 
-2, Install Node.JS Package [Here](https://nodejs.org/en/d)
+2, Install Node.JS Package [Here](https://nodejs.org/en/download/)
 
 3, Install Express-generator package [Here](https://www.npmjs.com/package/express-generator)
 
