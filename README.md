@@ -61,3 +61,11 @@ MySQL
 ### API documentation
 
 [APIs, listing URIs, method, request and response parameters, and API description.](API/API.pdf)
+
+### API source code
+
+[All the .JS cource code listed in the design diagram](API/source code)
+
+### Test API using Postman
+
+Document the desired test results in [TestAPI.pptx.](API/TestAPI.pptx)
