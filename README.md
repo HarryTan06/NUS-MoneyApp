@@ -14,11 +14,11 @@ This repo is mean as a showcase for what the student has learned to build a paym
 ### Prerequisites
 #### Language
 MySQL
-### Setup 
+#### Setup 
 1, Install MySQL [Windows OS](https://www.youtube.com/watch?v=WuBcTJnIuzo)
 
 2,Connecting to MySQL client [guide](screenshot/connectSql.JPG)
 
-## Database Schema Design
+### Database Schema Design
 
 ![](screenshot/schema.JPG)
