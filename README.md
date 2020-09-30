@@ -31,7 +31,7 @@ MySQL
 
 3, Test the Database with test script from MySQL Workbench or MySQL Command Line Client. [ (testscript.sql)](Database/testscript.sql)
 
-4, Document the desired outcome in [Database.pptx.](Database/Database.pptx)
+4, Document the outcome in [Database.pptx.](Database/Database.pptx)
 
 
 
@@ -68,4 +68,4 @@ MySQL
 
 ### Test API using Postman
 
-Document the desired test results in [TestAPI.pptx.](API/TestAPI.pptx)
+Document the test results in [TestAPI.pptx.](API/TestAPI.pptx)
