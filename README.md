@@ -64,7 +64,7 @@ MySQL
 
 ### API source code
 
-[All the .JS cource code listed in the design diagram](API/source code)
+[All the .JS cource code listed in the design diagram](API/)
 
 ### Test API using Postman
 
